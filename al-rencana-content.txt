@@ -1,0 +1,6 @@
+RENCANA KONTEN AL
+
+- Javascript
+- Php framework
+- Interview
+- Vlog
