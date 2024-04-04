@@ -3,6 +3,7 @@ RENCANA KONTEN AL
 - Javascript
 * ES6
 * Framework Javascript
+- Struktur data dasar
 - Php framework
 - Interview
 - Vlog
