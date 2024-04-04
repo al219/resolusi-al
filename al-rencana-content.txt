@@ -1,9 +1,12 @@
 RENCANA KONTEN AL
 
 - Javascript
-* ES6
-* Framework Javascript
+ * ES6
+ * Framework Javascript
+  ^ Vue
 - Struktur data dasar
 - Php framework
+  ^ Laravel
 - Interview
 - Vlog
+- Python
